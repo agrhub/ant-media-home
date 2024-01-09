@@ -2,18 +2,21 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.antmedia</groupId>
   <artifactId>media</artifactId>
-  <version>2.6.4</version>
+  <version>2.7.0</version>
   <packaging>pom</packaging>
   <parent>
     <groupId>io.antmedia</groupId>
     <artifactId>parent</artifactId>
-    <version>2.6.4</version>
+    <version>2.7.0</version>
     <relativePath>./ant-media-server-parent</relativePath>
   </parent>
   <modules>
     <module>ant-media-server-parent</module>
     <module>StreamApp</module>
-    <module>CamOS/webapp</module>
+    <module>seetaface6SDK</module>
+    <module>ant-media-enterprise</module>
     <module>Ant-Media-Server</module>
+	<module>CamOS/webapp</module>
+    <module>CloudyTV/webapp</module>
   </modules>
 </project>

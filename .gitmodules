@@ -13,3 +13,13 @@
 [submodule "CamOS"]
 	path = CamOS
 	url = https://github.com/agrhub/CamOS.git
+[submodule "seetaface6SDK"]
+	path = seetaface6SDK
+	url = https://github.com/dmtan90/seetaface6SDK.git
+	[submodule "ant-media-enterprise"]
+	path = ant-media-enterprise
+	url = https://github.com/agrhub/ant-media-enterprise.git
+[submodule "CloudyTV"]
+	path = CloudyTV
+	url = https://github.com/agrhub/CloudyTV.git
+	
