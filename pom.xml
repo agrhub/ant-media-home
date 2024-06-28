@@ -19,5 +19,6 @@
     <module>Ant-Media-Server</module>
 	<module>CamOS/webapp</module>
     <module>CloudyTV/webapp</module>
+    <module>VidGen/webapp</module>
   </modules>
 </project>

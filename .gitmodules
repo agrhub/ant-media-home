@@ -22,6 +22,9 @@
 [submodule "CloudyTV"]
 	path = CloudyTV
 	url = https://github.com/agrhub/CloudyTV.git
+[submodule "VidGen"]
+	path = VidGen
+	url = https://github.com/agrhub/VidGen.git
 [submodule "agrhub-media-core"]
 	path = agrhub-media-core
 	url = https://github.com/agrhub/agrhub-media-core.git
