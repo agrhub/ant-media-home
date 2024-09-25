@@ -15,6 +15,7 @@
     <module>StreamApp</module>
     <module>seetaface6SDK</module>
     <module>ant-media-enterprise</module>
+    <module>agrhub-media-parent</module>
     <module>agrhub-media-core</module>
     <module>Ant-Media-Server</module>
 	<module>CamOS/webapp</module>
