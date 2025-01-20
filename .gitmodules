@@ -28,4 +28,7 @@
 [submodule "agrhub-media-core"]
 	path = agrhub-media-core
 	url = https://github.com/agrhub/agrhub-media-core.git
+[submodule "PropertyGIS"]
+	path = PropertyGIS
+	url = https://github.com/agrhub/PropertyGIS.git
 	
